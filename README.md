@@ -9,7 +9,7 @@ Porto Alegre, RS
 
 ### 💡 Sobre mim
 
-Intusiasta dados e por transformar informações em decisões inteligentes.  
+Intusiasta da área de dados e por transformar informações em decisões inteligentes.  
 Atualmente atuo como estagiária em dados, desenvolvendo dashboards, organizando bases e apoiando análises financeiras e estratégicas.
 
 Minha missão é unir minha bagagem na área comercial com habilidades técnicas para entregar valor através da análise de dados.
