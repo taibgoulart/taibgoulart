@@ -1,4 +1,4 @@
-# 👩‍💻 Tainá Goulart
+# 👩🏾‍💻 Tainá Goulart
 
 Estudante de Análise e Desenvolvimento de Sistemas  
 Estagiária em Análise de Dados  
