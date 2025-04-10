@@ -18,13 +18,14 @@ Minha missão é unir minha bagagem na área comercial com habilidades técnicas
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Python** (Pandas, Numpy, Matplotlib, Seaborn)
-- **SQL** (manipulação de dados em bancos relacionais)
-- **Power BI** (dashboards interativos)
-- **Tableau** (visualização de dados)
-- **Excel** (análises, tabelas dinâmicas, dashboards)
-- **AWS** (aprendizado e uso de serviços voltados a dados)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 ---
 
 ### 📁 Projetos
