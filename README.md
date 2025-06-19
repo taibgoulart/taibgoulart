@@ -1,8 +1,7 @@
 # 👩🏾‍💻 Tainá Goulart
 
 Estudante de Análise e Desenvolvimento de Sistemas  
-Estagiária em Análise de Dados  
-Em transição de carreira com +11 anos de experiência na área comercial  
+Analista de Dados Júnior
 Porto Alegre, RS  
 
 ---
