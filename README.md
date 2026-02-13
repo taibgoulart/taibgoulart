@@ -1,7 +1,6 @@
 # 👩🏾‍💻 Tainá Goulart
 
-Estudante de Análise e Desenvolvimento de Sistemas  
-Analista de Dados Júnior
+Analista de Dados
 Porto Alegre, RS  
 
 ---
@@ -9,7 +8,7 @@ Porto Alegre, RS
 ### 💡 Sobre mim
 
 Intusiasta da área de dados e por transformar informações em decisões inteligentes.  
-Atualmente atuo como estagiária em dados, desenvolvendo dashboards, organizando bases e apoiando análises financeiras e estratégicas.
+Atualmente atuo como analista de dados, desenvolvendo dashboards, organizando bases e apoiando análises financeiras e estratégicas.
 
 Minha missão é unir minha bagagem da área comercial com habilidades técnicas para entregar valor por meio da análise de dados.  
 Sigo aprendendo todos os dias, com foco em consolidar minha carreira como Analista de Dados.
