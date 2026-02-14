@@ -1,11 +1,11 @@
-# 👩🏾‍💻 Tainá Goulart
+# Tainá Goulart
 
 Analista de Dados
 Porto Alegre, RS  
 
 ---
 
-### 💡 Sobre mim
+###  Sobre mim
 
 Sou formada em Análise e Desenvolvimento de Sistemas, com sólida experiência nas áreas comercial e de negócios. Ao longo da minha trajetória, desenvolvi uma visão estratégica orientada a resultados, que hoje aplico na área de dados.
 Atuo como Analista de Dados, com experiência em análises de rentabilidade de clientes e colaboradores. Atualmente estou alocada em um setor de transação tributária, apoiando decisões por meio da organização e análise de dados, além da automação de processos.
@@ -14,7 +14,7 @@ Estou em constante evolução, unindo visão de negócio e habilidades técnicas
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ Estou em constante evolução, unindo visão de negócio e habilidades técnicas
 
 ---
 
-### 📁 Portfólio
+###  Portfólio
 
 📊 Confira meu portfólio de dashboards no Power BI:  
 [🔗 Portfólio Power BI](https://sites.google.com/d/1bbsGtc6IerI5DBRj_o-vjJO41PAEewie/p/1bnK0E0L_xUOLD_RATbydcNeWFZE9gzoF/edit)
