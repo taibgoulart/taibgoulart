@@ -1,6 +1,7 @@
 # Tainá Goulart
 
 Analista de Dados
+---
 
 Porto Alegre, RS  
 
