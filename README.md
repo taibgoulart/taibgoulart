@@ -7,11 +7,10 @@ Porto Alegre, RS
 
 ### 💡 Sobre mim
 
-Intusiasta da área de dados e por transformar informações em decisões inteligentes.  
-Atualmente atuo como analista de dados, desenvolvendo dashboards, organizando bases e apoiando análises financeiras e estratégicas.
-
-Minha missão é unir minha bagagem da área comercial com habilidades técnicas para entregar valor por meio da análise de dados.  
-Sigo aprendendo todos os dias, com foco em consolidar minha carreira como Analista de Dados.
+Sou formada em Análise e Desenvolvimento de Sistemas, com sólida experiência nas áreas comercial e de negócios. Ao longo da minha trajetória, desenvolvi uma visão estratégica orientada a resultados, que hoje aplico na área de dados.
+Atuo como Analista de Dados, com experiência em análises de rentabilidade de clientes e colaboradores. Atualmente estou alocada em um setor de transação tributária, apoiando decisões por meio da organização e análise de dados, além da automação de processos.
+Tenho como objetivo aprofundar meus conhecimentos em Python para desenvolver análises cada vez mais robustas e soluções automatizadas que gerem eficiência e valor para o negócio.
+Estou em constante evolução, unindo visão de negócio e habilidades técnicas para transformar dados em decisões inteligentes.
 
 ---
 
